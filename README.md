@@ -204,15 +204,3 @@ tests/                 the tests for every tool
 
 Your own files live in `replica/` in your project. The skills read each
 other's.
-
-## Credit
-
-Made by Jake Schincariol, [opusjake.ai](https://opusjake.ai). Siblings:
-[Arena](https://github.com/Jakeschincariol/arena-skill),
-[X](https://github.com/Jakeschincariol/x-agent-skill),
-[LinkedIn](https://github.com/Jakeschincariol/linkedin-agent-skill),
-[Instagram](https://github.com/Jakeschincariol/instagram-agent-skill).
-
-## License
-
-MIT. Take it, change it, ship it.
